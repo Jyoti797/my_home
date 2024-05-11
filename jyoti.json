@@ -1,0 +1,36 @@
+[
+    {
+        "title ": "Personal Details & Family",
+        "name": "Jyoti Ranjan Mohanta",
+        "Date of Birth": "16 april 1999",
+        "Place of Birth": "S.C.B Medical College, cuttack",
+        "Father": "Mohan Charan Mohanta",
+        "Mother": "Ketaki Mohanta",
+        "Sister": "Gitanjali Mohanta"
+    },
+    {
+        "title": "Secondary Education",
+        "School(class 1 to 7)": "Vibekananda Shikshya Kendra",
+        "High School": " Ravenshaw Collegiate School",
+        "Subjects": "Odia, English, Sanskrit, Math, physical science, biologocal science, History, Geography",
+        "percentage": "87.67"
+    },
+    {
+        "title": "Higher Secondary Education",
+        "12th": "J.K.B.K Junior Govt College",
+        "Subjects": "English, Sanskrit, Physics, Chemistry, Math, Botany, Zoology",
+        "percentage": "72.67"
+    },
+    {
+        "title": "Higher Education",
+        "Graduation": "J.K.B.K Govt Degree College",
+        "field": "Zoology",
+        "CGPA": "7.61"
+    },
+    {
+        "title": "Higher Education",
+        "Post Graduation": "Sri Sri University",
+        "field": "Masters in Computer Application",
+        "CGPA": "8.9"
+    }
+]
